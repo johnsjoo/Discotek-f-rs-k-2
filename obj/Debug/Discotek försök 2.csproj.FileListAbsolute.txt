@@ -1,0 +1,7 @@
+C:\Users\John\Desktop\c# Uppgifter\Discotek försök 2\bin\Debug\Discotek försök 2.exe.config
+C:\Users\John\Desktop\c# Uppgifter\Discotek försök 2\bin\Debug\Discotek försök 2.exe
+C:\Users\John\Desktop\c# Uppgifter\Discotek försök 2\bin\Debug\Discotek försök 2.pdb
+C:\Users\John\Desktop\c# Uppgifter\Discotek försök 2\obj\Debug\Discotek försök 2.csprojAssemblyReference.cache
+C:\Users\John\Desktop\c# Uppgifter\Discotek försök 2\obj\Debug\Discotek försök 2.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\c# Uppgifter\Discotek försök 2\obj\Debug\Discotek försök 2.exe
+C:\Users\John\Desktop\c# Uppgifter\Discotek försök 2\obj\Debug\Discotek försök 2.pdb
